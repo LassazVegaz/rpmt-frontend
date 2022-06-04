@@ -1,4 +1,4 @@
 {
 	"production": false,
-	"apiURL": "https://rpmt-app-live.herokuapp.com"
+	"apiURL": "https://rpmt-api-live.herokuapp.com"
 }
